@@ -11,8 +11,8 @@ Implemented a stock price prediction model using deep learning techniques. The p
 5. Evaluation: Calculated the mean squared error (MSE) to assess the performance of the models.
 
 Results:
-- 4-layer LSTM with Adam: MSE = [MSE value]
-- 4-layer LSTM with RMSprop: MSE = [MSE value]
-- 4-layer GRU with SGD: MSE = [MSE value]
-- 4-layer GRU with RMSprop: MSE = [MSE value]
+- 4-layer LSTM with Adam: MSE = [41.06]
+- 4-layer LSTM with RMSprop: MSE = [62.65]
+- 4-layer GRU with SGD: MSE = [62.65]
+- 4-layer GRU with RMSprop: MSE = [114.26]
 
